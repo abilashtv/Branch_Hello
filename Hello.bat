@@ -1,1 +1,3 @@
-echo "Hello from Wellsfargo %date% %time%[D[D[D[D[D[D: %time%"
+echo "Hello from Wellsfargo %date% :  %time%"
+echo "
+This is from RFE branch"
